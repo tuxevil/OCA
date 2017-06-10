@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nybble/!svn/ver/6456/OCA/ePack/ePack/trunk/tests/ePack.Tests
+END
+ePack.Tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/6208/OCA/ePack/ePack/trunk/tests/ePack.Tests/ePack.Tests.csproj
+END
+App.config
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/tests/ePack.Tests/App.config
+END
+ServiceLocatorInitializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/tests/ePack.Tests/ServiceLocatorInitializer.cs
+END
+Hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/tests/ePack.Tests/Hibernate.cfg.xml
+END

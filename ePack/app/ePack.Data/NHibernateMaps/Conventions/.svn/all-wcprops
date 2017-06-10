@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/Conventions
+END
+HasManyToManyConvention.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/Conventions/HasManyToManyConvention.cs
+END
+TableNameConvention.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/Conventions/TableNameConvention.cs
+END
+PrimaryKeyConvention.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/Conventions/PrimaryKeyConvention.cs
+END
+ReferenceConvention.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/Conventions/ReferenceConvention.cs
+END
+HasManyConvention.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/Conventions/HasManyConvention.cs
+END
+ForeignKeyConvention.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/Conventions/ForeignKeyConvention.cs
+END
+ManyToManyTableNameConvention.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/Conventions/ManyToManyTableNameConvention.cs
+END

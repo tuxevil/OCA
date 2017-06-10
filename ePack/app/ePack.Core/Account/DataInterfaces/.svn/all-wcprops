@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/6242/OCA/ePack/ePack/trunk/app/ePack.Core/Account/DataInterfaces
+END
+ISiteRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nybble/!svn/ver/6204/OCA/ePack/ePack/trunk/app/ePack.Core/Account/DataInterfaces/ISiteRepository.cs
+END
+IUserRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nybble/!svn/ver/6242/OCA/ePack/ePack/trunk/app/ePack.Core/Account/DataInterfaces/IUserRepository.cs
+END

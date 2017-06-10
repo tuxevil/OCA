@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/6506/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Views
+END
+IContactView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/nybble/!svn/ver/6484/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Views/IContactView.cs
+END
+RegisterView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/nybble/!svn/ver/6506/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Views/RegisterView.cs
+END
+ContactView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/nybble/!svn/ver/6506/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Views/ContactView.cs
+END
+IRegisterView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Views/IRegisterView.cs
+END

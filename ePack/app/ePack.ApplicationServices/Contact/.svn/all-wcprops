@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/6606/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Contact
+END
+ContactService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/nybble/!svn/ver/6606/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Contact/ContactService.cs
+END
+IContactService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nybble/!svn/ver/6259/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Contact/IContactService.cs
+END

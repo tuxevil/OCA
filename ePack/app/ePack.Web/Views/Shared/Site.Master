@@ -1,0 +1,190 @@
+<%@ Master Language="C#" AutoEventWireup="true" 
+    Inherits="System.Web.Mvc.ViewMasterPage" %>
+<%@ Import Namespace="ePack.Web.Controllers" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <link rel="stylesheet" href="/css/main.css" type="text/css" />
+    <!--[if IE 6]>
+    <style>
+    .header 
+    {
+        margin-bottom:-6px;
+        margin-left:25px;
+        }
+    .Tabs 
+    {
+	    padding-left:1px !important;
+	    padding-top:6px;
+    }
+    
+    .Tabs a {
+	    margin-bottom: -2px;
+    }
+    .login div
+    {
+    margin-right:3px;
+    }
+     .login img
+    {
+    margin-right:0px;
+    float:left;
+    }
+    .feedRight 
+    {
+	    margin-right: 0px;
+    }
+    .passInput
+    {
+		padding-right:55px !important;
+
+	}
+	.floatingPBuyer
+    {
+	margin: 0px 135px 0px 0px !important;
+	}
+	.content
+    {
+        margin-top:-6px !important;
+	   margin-bottom:-10px !important;
+    }
+    </style>
+    
+    <![endif]-->
+    
+    <!--[if IE 7]>
+    <style>
+    .TabsHeader
+    {
+	padding-right:1px;
+	margin-left:0px ;
+	}
+    .Tabs {
+	    padding-left:0px !important;
+    }
+    .Tabs a {
+	    margin-bottom: -2px;
+    }
+    .login div
+    {
+    margin-right:6px;
+    }
+    .passInput
+    {
+		padding-right:55px !important;
+
+	}
+	.footer
+	{
+	width:1010px;
+	margin-right:1px;
+	padding-left:1px;
+	}
+	.content
+	{
+	    margin-left:4px;
+	    padding-bottom:15px;
+	}
+	.shadowL
+	{
+	margin-left: 4px !important;
+	}
+    </style>
+    <![endif]-->
+    <!--[if IE 8]>
+    <style>
+     .login
+{
+	margin-left:9px;
+}
+    .TabsHeader
+    {
+	padding-right:0px;
+	margin-left:1px ;
+	}
+	.Tabs
+	{
+	margin-right:0px;
+	}
+    .footer
+	{
+	width:1010px;
+	padding-left:9px;
+	}
+    .login div
+    {
+    margin-right:6px;
+    }
+    .content
+	{
+	    margin-left:5px;
+	}
+    </style>
+    <![endif]-->
+    <% // At bottom to facilitate other JS files to be loaded before page-by-page JS is loaded %>
+    <asp:ContentPlaceHolder ID="HeadContentPlaceHolder" runat="server">
+        <title>e-Pak - envíos OCA</title>
+    </asp:ContentPlaceHolder>
+</head>
+
+<body onLoad="MM_preloadImages('/img/tabRightCornerHover.png', '/img/tabLeftCornerHover.png', '/img/tabHover.png', '/img/downArrow.png')">
+     <div class="global">
+            <div class="TabsHeader" >
+                <img style="float:right;margin-right: 5px;margin-top:13px;" src="/img/shadowRight.jpg" />            
+                 <img class="shadowL" style="float:left;margin-left: 5px;margin-top:13px;" src="/img/shadowLeft.jpg" />
+                <div class="header">
+                </div>
+                <div class="Tabs">
+                    <div class="firstTab"> <%= Html.ActionLink("HOME", "Index", "Home", null, new { Id = "homeTab" })%><img id="arrowHome" class="tabArrow" src="/img/downArrow.png"/></div>
+                    <div class="commonTabs"><%= Html.ActionLink("VENDEDORES", "Index", "Vendedores", null, new { Id = "sellerTab" })%><img id="arrowSeller" class="tabArrow" src="/img/downArrow.png"/></div>
+                    <div class="commonTabs"><%= Html.ActionLink("COMPRADORES", "Index", "Compradores", null, new { Id = "buyerTab" })%><img id="arrowBuyer" class="tabArrow" src="/img/downArrow.png"/></div>
+                    <div class="commonTabs"><%= Html.ActionLink("BLOG", "Index", "Blog", null, new { Id = "blogTab" })%><img  id="arrowBlog" class="tabArrow" src="/img/downArrow.png"/></div>
+                    <div  class="lastTab"><%= Html.ActionLink("CONTACTO", "Index", "Contact", null, new { Id = "contactTab" })%><img id="arrowContact" class="tabArrow" src="/img/downArrow.png"/></div>
+                </div>
+            </div>
+
+            <div class="content">
+                    <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server" />
+            </div>
+            
+            <div class="footer">
+            <div class="icons">
+                <%--<a target="_blank" href="http://www.facebook.com">
+                    <img src="/img/faceBookIcon.gif" />
+                </a>
+                <a target="_blank" href="http://www.twitter.com">
+                    <img src="/img/tweeterIcon.gif"/>
+                </a>--%>
+            </div>
+               <div class="reserved">
+                <a>© 2010 </a><a href="http://www.oca.com.ar" target="_blank">www.oca.com.ar | </a>
+                <a href="<%= Url.RouteUrl(new { controller = "Contact", action= "Index"}) %>" target="_blank">Comunicate con nosotros: 0800-999-7700</a>
+                
+                </div>
+            </div>
+    </div>
+    
+    <script language="javascript" type="text/javascript" src="/Scripts/jquery-1.4.2.min.js"></script>
+    <script language="javascript" type="text/javascript" src="/Scripts/main.js"></script>
+    <script language="javascript" type="text/javascript" src="/Scripts/inputEraser.js"></script>
+    
+    <asp:ContentPlaceHolder ID="ScriptPlaceHolder" runat="server"/>
+    
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18838540-2']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+     
+    </script>
+</body>
+</html>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nybble/!svn/ver/6608/OCA/ePack/ePack/trunk/app/ePack.Web/res
+END
+ask_body.htm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nybble/!svn/ver/6608/OCA/ePack/ePack/trunk/app/ePack.Web/res/ask_body.htm
+END
+activate_body.htm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/6462/OCA/ePack/ePack/trunk/app/ePack.Web/res/activate_body.htm
+END
+ask_subject.htm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nybble/!svn/ver/6467/OCA/ePack/ePack/trunk/app/ePack.Web/res/ask_subject.htm
+END
+mailTemplate.htm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nybble/!svn/ver/6608/OCA/ePack/ePack/trunk/app/ePack.Web/res/mailTemplate.htm
+END
+activate_subject.htm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nybble/!svn/ver/6462/OCA/ePack/ePack/trunk/app/ePack.Web/res/activate_subject.htm
+END
+ask_title.htm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nybble/!svn/ver/6471/OCA/ePack/ePack/trunk/app/ePack.Web/res/ask_title.htm
+END
+activate_title.htm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/6462/OCA/ePack/ePack/trunk/app/ePack.Web/res/activate_title.htm
+END

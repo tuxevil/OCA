@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.Data
+END
+ContactRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/6259/OCA/ePack/ePack/trunk/app/ePack.Data/ContactRepository.cs
+END
+PostalCodeRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.Data/PostalCodeRepository.cs
+END
+UserRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nybble/!svn/ver/6242/OCA/ePack/ePack/trunk/app/ePack.Data/UserRepository.cs
+END
+SiteRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nybble/!svn/ver/6203/OCA/ePack/ePack/trunk/app/ePack.Data/SiteRepository.cs
+END
+ePack.Data.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.Data/ePack.Data.csproj
+END

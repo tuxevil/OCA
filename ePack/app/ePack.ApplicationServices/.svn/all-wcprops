@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nybble/!svn/ver/6606/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices
+END
+IFeedRetrievalService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/nybble/!svn/ver/6262/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/IFeedRetrievalService.cs
+END
+Extensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nybble/!svn/ver/6203/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Extensions.cs
+END
+FeedRetrievalService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/nybble/!svn/ver/6340/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/FeedRetrievalService.cs
+END
+ePack.ApplicationServices.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/nybble/!svn/ver/6484/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/ePack.ApplicationServices.csproj
+END

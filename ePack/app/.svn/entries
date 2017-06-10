@@ -1,0 +1,43 @@
+10
+
+dir
+7284
+http://sourcesafe.nybblenetwork.com:8080/svn/nybble/OCA/ePack/ePack/trunk/app
+http://sourcesafe.nybblenetwork.com:8080/svn/nybble
+
+
+
+2010-10-01T15:28:14.077809Z
+6707
+leonardo.rodriguez
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+420dda77-6af4-1841-a513-76830d1e3cad
+
+ePack.Web
+dir
+
+ePack.Utils
+dir
+
+ePack.ApplicationServices
+dir
+
+ePack.Core
+dir
+
+ePack.Data
+dir
+

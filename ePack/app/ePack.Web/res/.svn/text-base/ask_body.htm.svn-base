@@ -1,0 +1,12 @@
+﻿<p>$AskData.FullName$ ha solicitado que lo contacten.</p>
+
+<p style="text-align:left">
+Compañia: <b>$AskData.Contact.Company$</b><br />
+Email: <b>$AskData.Contact.Email$</b><br />
+Nombre: <b>$AskData.Contact.FirstName$</b><br />
+Apellido: <b>$AskData.Contact.LastName$</b><br />
+Telefono: <b>$AskData.Contact.Phone$</b><br />
+WebSite: <b>$AskData.Contact.WebSite$</b><br />
+CP: <b>$AskData.Contact.PostalCode$</b><br />
+Comentario: <b>$AskData.Contact.Comment$</b><br />
+</p>

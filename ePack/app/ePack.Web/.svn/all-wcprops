@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/nybble/!svn/ver/6707/OCA/ePack/ePack/trunk/app/ePack.Web
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nybble/!svn/ver/6484/OCA/ePack/ePack/trunk/app/ePack.Web/Global.asax.cs
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/nybble/!svn/ver/6531/OCA/ePack/ePack/trunk/app/ePack.Web/Web.config
+END
+Default.aspx.designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nybble/!svn/ver/6059/OCA/ePack/ePack/trunk/app/ePack.Web/Default.aspx.designer.cs
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Web/Default.aspx.cs
+END
+NHibernate.config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/nybble/!svn/ver/6392/OCA/ePack/ePack/trunk/app/ePack.Web/NHibernate.config
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Web/Global.asax
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/nybble/!svn/ver/6057/OCA/ePack/ePack/trunk/app/ePack.Web/Default.aspx
+END
+ePack.Web.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nybble/!svn/ver/6535/OCA/ePack/ePack/trunk/app/ePack.Web/ePack.Web.csproj
+END

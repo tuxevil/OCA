@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.Core/RepositoryInterfaces
+END
+IContactRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/nybble/!svn/ver/6259/OCA/ePack/ePack/trunk/app/ePack.Core/RepositoryInterfaces/IContactRepository.cs
+END
+IPostalCodeRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.Core/RepositoryInterfaces/IPostalCodeRepository.cs
+END

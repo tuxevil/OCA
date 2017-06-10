@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.Core/Account
+END
+User.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nybble/!svn/ver/6307/OCA/ePack/ePack/trunk/app/ePack.Core/Account/User.cs
+END
+Profile.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.Core/Account/Profile.cs
+END
+UserRole.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nybble/!svn/ver/6204/OCA/ePack/ePack/trunk/app/ePack.Core/Account/UserRole.cs
+END
+Role.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nybble/!svn/ver/6204/OCA/ePack/ePack/trunk/app/ePack.Core/Account/Role.cs
+END
+PhoneNumber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/6430/OCA/ePack/ePack/trunk/app/ePack.Core/Account/PhoneNumber.cs
+END
+UserStatus.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/6204/OCA/ePack/ePack/trunk/app/ePack.Core/Account/UserStatus.cs
+END
+Site.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/nybble/!svn/ver/6204/OCA/ePack/ePack/trunk/app/ePack.Core/Account/Site.cs
+END
+Function.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/nybble/!svn/ver/6204/OCA/ePack/ePack/trunk/app/ePack.Core/Account/Function.cs
+END
+InternetActivity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nybble/!svn/ver/6429/OCA/ePack/ePack/trunk/app/ePack.Core/Account/InternetActivity.cs
+END
+Company.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nybble/!svn/ver/6204/OCA/ePack/ePack/trunk/app/ePack.Core/Account/Company.cs
+END

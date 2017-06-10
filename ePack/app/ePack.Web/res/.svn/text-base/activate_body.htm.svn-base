@@ -1,0 +1,8 @@
+﻿    <p>Hola $ActivateData.FullName$</p>
+    <p>Activá tu cuenta de envios OCA realizando click en el siguiente link:</p>
+    
+    <a href="[SITEURL]$ActivateData.ConfirmUrl$"><img style="border:0px;" src="[SITEURL]/img/mailBtn.png"/></a>
+    
+    <p><b>Comenzá a disfrutar de una manera más agil y sencilla de enviar y recibir <br />
+        productos comercializados o adquiridos a través de internet.
+    </b></p>

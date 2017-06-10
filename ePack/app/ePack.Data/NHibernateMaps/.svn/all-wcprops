@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps
+END
+AutomappingConfiguration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/nybble/!svn/ver/6429/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/AutomappingConfiguration.cs
+END
+SpecialMapping.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/SpecialMapping.cs
+END
+AutoPersistenceModelGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/nybble/!svn/ver/6335/OCA/ePack/ePack/trunk/app/ePack.Data/NHibernateMaps/AutoPersistenceModelGenerator.cs
+END

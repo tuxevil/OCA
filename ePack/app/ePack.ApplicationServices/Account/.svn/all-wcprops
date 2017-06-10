@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Account
+END
+AccountService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/nybble/!svn/ver/6476/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Account/AccountService.cs
+END
+ISignInService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/nybble/!svn/ver/6456/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Account/ISignInService.cs
+END
+ISiteCreationService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/nybble/!svn/ver/6242/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Account/ISiteCreationService.cs
+END
+SignInService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/nybble/!svn/ver/6467/OCA/ePack/ePack/trunk/app/ePack.ApplicationServices/Account/SignInService.cs
+END
